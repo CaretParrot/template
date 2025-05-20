@@ -1,7 +1,7 @@
 {
-    "name": "My-Libraries",
-    "short_name": "My Libraries",
-    "start_url": "/my-libraries",
+    "name": "<name>",
+    "short_name": "<name>",
+    "start_url": "/<name>",
     "icons": [
         {
             "src": "https://caretparrot.github.io/My-Libraries/Profile%20Picture.png",
